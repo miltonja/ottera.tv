@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 group-title="🏵️ FREE TV 🏵️"tvg-logo="https://cdn.m3u.cl/logo/1276_Horrorfy___Freetv_com.png",🏵️|➾FREE TV TERROR | US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏵️ FREE TV 🏵️"tvg-logo="https://i.postimg.cc/fLWRNBD5/freetv-familia-1080x1080-02092024.jpg",🏵️|➾FREE TV FAMILIA | US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏵️ FREE TV 🏵️"tvg-logo="https://i.postimg.cc/mDMfK9FV/freetv-accion-1080x1080-02092024.jpg",🏵️|➾FREE TV  ACCION | US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏵️ FREE TV 🏵️"tvg-logo="https://i.postimg.cc/YqrZzZ8d/freetv-estelar-1080x1080-02092024.jpg",🏵️|➾FREE TV ESTELAR | US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏵️ PELICULAS 🏵️"tvg-logo="https://i.postimg.cc/y8kZtBZr/TV-Prime-Peliculas.png",🏵️|➾ TV PRIME PELICULAS | CL
+https://premium.tvcontrolcp.com:19360/8062/8062.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏵️ FREE TV 🏵️"tvg-logo="https://i.postimg.cc/TwvHL4pq/freetv-drama-1080x1080-02092024-0.jpg",🏵️|➾FREE TV DRAMA | US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏵️ FREE TV 🏵️"tvg-logo="https://i.postimg.cc/fyTCYnZX/freetv-sureno-1080x1080-02092024.jpg",🏵️|➾ FREE TV CINE SUREÑO | US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏵️ FREE TV 🏵️"tvg-logo="https://i.postimg.cc/SszzXmnj/freetv-banda-1080x1080-02092024.jpg"🏵️|➾ ,MMC - FRE TV BANDA | US
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏵️ FREE TV 🏵️"tvg-logo="https://i.postimg.cc/y6TDXJSj/FREE-TV-HITS.png",🏵️|➾FREE TV HITS | US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏵️ FREE TV 🏵️"tvg-logo="https://i.postimg.cc/596s3zCF/freetv-live-1080x1080-02092024.jpg",🏵️|➾FREE TV LIVE | US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="ottera.tv",ottera.tv id=14
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
 #EXTINF:-1 group-title="ottera.tv",ottera.tv id=33
